@@ -1,0 +1,3 @@
+input two numbers a,b
+c=a+b
+print c
